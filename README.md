@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Haaaaaaaa615
 - 👀 I’m interested in discord bots!
-- 🌱 I’m currently learning python and java!
-- 💞️ I’m looking to collaborate on a special discord bot.
+- 🌱 I’m currently learning Python and Java!
 - 📫 How to reach me through discord: Haaaaaaaa#0001
 
 <!---
