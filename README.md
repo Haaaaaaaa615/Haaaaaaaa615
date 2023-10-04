@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haaaaaaaa615
-- 👀 I’m interested in discord bots!
-- 🌱 I’m currently learning Python and Java!
-- 📫 How to reach me through discord: Haaaaaaaa#0001
+- 👀 I’m interested in Minecraft modding!
+- 🌱 I’m currently learning Python, Java, and Kotlin!
+- 📫 How to reach me through discord: haaaaaaaa
 
 <!---
 Haaaaaaaa615/Haaaaaaaa615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
